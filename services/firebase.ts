@@ -13,7 +13,7 @@ import type { CareerStream, College, StreamData, EntrepreneurshipData, UserData 
 // Go to: Firebase Console > Authentication > Settings > Authorized domains > Add domain.
 // For local development, you need to add 'localhost'.
 const firebaseConfig = {
-  apiKey: "AIzaSyASPwQ7JQOkKCaphVGdNdU5jc91T_TGKD8",
+  apiKey: "",
   authDomain: "peekafuture-472405.firebaseapp.com",
   projectId: "peekafuture-472405",
   storageBucket: "peekafuture-472405.firebasestorage.app",
