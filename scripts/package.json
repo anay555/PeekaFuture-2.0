@@ -1,0 +1,13 @@
+{
+  "name": "peekafuture-seeder",
+  "version": "1.0.0",
+  "description": "Script to seed Firestore database for the Peekafuture project.",
+  "main": "seed.js",
+  "type": "module",
+  "scripts": {
+    "start": "node seed.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.1.0"
+  }
+}

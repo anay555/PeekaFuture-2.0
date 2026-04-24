@@ -1,0 +1,5 @@
+{
+  "name": "Peekafuture Dashboard",
+  "description": "An application to guide 10th-grade students on career choices, streams, colleges, and entrepreneurship using Gemini and Firebase.",
+  "requestFramePermissions": []
+}
